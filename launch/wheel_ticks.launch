@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+
+  <node name="wheel_ticks_listener" pkg="duckie_lab" type="wheel_tick_listener.py" output="screen"/>
+
+</launch>

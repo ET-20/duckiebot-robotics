@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+
+# ROS
+build/
+devel/
+logs/
+*.bag
+
+# Editor
+.vscode/
+.idea/
+
+# Zugangsdaten
+.env
+.env.*
+*.pem
+*.key
